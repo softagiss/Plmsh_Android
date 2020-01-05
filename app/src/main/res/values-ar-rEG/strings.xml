@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">بلمسه</string>
+    <string name="saqah_english" translatable="false">متجر ثقة</string>
+    <string name="home" translatable="false">الرئيسية</string>
+    <string name="wishlist" translatable="false">المفضلة</string>
+    <string name="filter" translatable="false">فلتر</string>
+    <string name="search" translatable="false">ابحث باسم المنتج</string>
+    <string name="exit" translatable="false">دوس تاني عشان تخرج</string>
+    <string name="discount" translatable="false">20% خصم</string>
+    <string name="fav" translatable="false">15.2 الف اعجاب</string>
+    <string name="help" translatable="false">الدعم الفني</string>
+    <string name="confirmpassword" translatable="false">الرقم السري غير متطابق</string>
+    <string name="email" translatable="false">اكتب ايميلك</string>
+    <string name="fullname" translatable="false">اكتب اسمك</string>
+    <string name="mobile" translatable="false">اكتب رقم موبايلك</string>
+    <string name="password" translatable="false">الرقم السري صغير</string>
+    <string name="register" translatable="false">تسجيل</string>
+    <string name="register_content" translatable="false">برجاء الانتظار</string>
+    <string name="products">أجدد المنتجات</string>
+    <string name="addtowish">اضافة الي المفضله</string>
+    <string name="addtocart">اضافة الي عربة التسوق</string>
+    <string name="cart">عربة التسوق</string>
+    <string name="checkout">اتمام عملية الشراء</string>
+    <string name="checkoutlabel">شراء</string>
+    <string name="emptycart">عربة التسوق فارغة</string>
+    <string name="shopnow">تسوق الان</string>
+    <string name="emptycategory">لا توجد منتجات خاصة بهذا التصنيف</string>
+
+    <string name="signinfirst">لو سمحت سجل دخولك الأول</string>
+    <string name="emailexist">الايميل مسجل مسبقا</string>
+    <string name="usernameexist">اسم المستخدم غير متاح</string>
+    <string name="reviews">اراء عن المنتج</string>
+
+    <string name="fname">الاسم الأول</string>
+    <string name="lname">الاسم الاخير</string>
+    <string name="company">اسم الشركة</string>
+    <string name="phone">رقم الموبايل</string>
+    <string name="address1">العنوان الأول</string>
+    <string name="address2">العنوان الثاني</string>
+    <string name="city">المدينة</string>
+
+    <string name="total1">منتجات -</string>
+    <string name="total2">جنيه مصري</string>
+
+    <string name="delete1">حذف</string>
+    <string name="delete2">هل أنت متأكد من حذف المنتج ؟</string>
+    <string name="orders">طلباتي</string>
+    <string name="productdetails">معلومات المنتج</string>
+    <string name="aboutproduct">عن المنتج</string>
+    <string name="categories">التصنيفات</string>
+
+    <string name="emailfield">ادخل الايميل</string>
+    <string name="emailfield2">ادخل الايميل أو اسم المستخدم</string>
+    <string name="passwordfield">ادخل الرقم السري</string>
+    <string name="usernamefield">ادخل اسم المستخدم</string>
+    <string name="confirmpasswordfield">تأكيد الرقم السري</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="nothave">ليس لديك حساب ؟</string>
+    <string name="registernow">سجل الان</string>
+
+    <string name="logout">تسجيل الخروج</string>
+    <string name="save">حفظ التعديلات</string>
+
+    <string name="savechange">تم حفظ التعديلات</string>
+    <string name="loginerror">تأكد من اسم المستخدم أو الايميل و الرقم السري و أعد المحاولة</string>
+
+    <string name="more">المزيد</string>
+    <string name="setting">تعديل البيانات</string>
+    <string name="call">اتصل بنا</string>
+    <string name="about">عن بلمسه</string>
+    <string name="signin">تسجيل الدخول</string>
+</resources>

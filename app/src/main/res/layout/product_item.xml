@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="8dp"
+        app:cardElevation="3dp"
+        android:layout_margin="10dp"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+            <ImageView
+                android:id="@+id/prod_img"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:src="@drawable/shirt"
+                android:scaleType="fitXY"
+                android:transitionName="images"
+                />
+
+            <TextView
+                android:id="@+id/store_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="15dp"
+                android:layout_marginStart="15dp"
+                android:textColor="@color/item"
+                android:gravity="center"
+                android:textSize="12sp"
+                android:layout_marginTop="10dp"
+                android:transitionName="store"
+                />
+
+            <TextView
+                android:id="@+id/prod_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/black"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="15dp"
+                android:layout_marginStart="15dp"
+                android:transitionName="title"
+                />
+
+            <TextView
+                android:id="@+id/first_price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="15dp"
+                android:layout_marginStart="15dp"
+                android:textColor="@color/item"
+                android:background="@drawable/strike"
+                android:gravity="center"
+                android:textSize="12sp"
+                android:transitionName="firstprice"
+                />
+
+            <TextView
+                android:id="@+id/second_price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="15dp"
+                android:layout_marginStart="15dp"
+                android:textColor="@color/colorPrimary"
+                android:gravity="center"
+                android:transitionName="secondprice"
+                />
+
+            <TextView
+                android:id="@+id/add_to_cart_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary"
+                android:text="@string/addtocart"
+                android:textColor="@android:color/white"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:padding="7dp"
+                android:foreground="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                tools:ignore="UnusedAttribute" />
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

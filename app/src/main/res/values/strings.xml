@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Plmsh</string>
+    <string name="saqah_english">Plmsh Store</string>
+    <string name="home" translatable="false">home</string>
+    <string name="help" translatable="false">Help &amp; Support</string>
+    <string name="wishlist" translatable="false">wishlist</string>
+    <string name="filter" translatable="false">filter</string>
+    <string name="search" translatable="false">search by product name</string>
+    <string name="exit" translatable="false">press again to exit</string>
+    <string name="discount" translatable="false">20% Discount</string>
+    <string name="fav" translatable="false">15.2k favorites</string>
+    <string name="demo" translatable="false">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque hendrerit ac orci vitae viverra. Aliquam mollis, risus in viverra rhoncus, neque odio iaculis nisl, nec congue erat elit eget mauris. Vestibulum nec risus lorem. Proin ultrices, est eget vestibulum ultrices, dui ligula pellentesque lectus, sed feugiat mi lectus eget ante. Donec congue suscipit massa sit amet mattis. Vivamus ornare, ex eget condimentum fermentum, sapien est scelerisque lorem, non dapibus ipsum purus sit amet velit. Sed facilisis egestas ante quis scelerisque. In hac habitasse platea dictumst. Vestibulum congue luctus sem at semper.</string>
+
+    <string name="fullname" translatable="false">please enter your name</string>
+    <string name="email" translatable="false">please enter your email</string>
+    <string name="password" translatable="false">password is too short</string>
+    <string name="confirmpassword" translatable="false">password dosen\'t match</string>
+    <string name="mobile" translatable="false">please enter your mobile number</string>
+
+    <string name="emailfield">enter email</string>
+    <string name="emailfield2">enter email or username</string>
+    <string name="passwordfield">enter password</string>
+    <string name="usernamefield">enter username</string>
+    <string name="confirmpasswordfield">confirm password</string>
+    <string name="login">login</string>
+    <string name="nothave">not have an account ?</string>
+    <string name="registernow">register now</string>
+    <string name="productdetails">product details</string>
+    <string name="aboutproduct">about product</string>
+    <string name="reviews">product reviews</string>
+    <string name="categories">categories</string>
+
+    <string name="products">last products</string>
+    <string name="addtowish">add to wishlist</string>
+    <string name="addtocart">add to cart</string>
+    <string name="cart">cart</string>
+    <string name="emptycart">cart is empty</string>
+    <string name="shopnow">shop now</string>
+    <string name="checkout">proceed to checkout</string>
+    <string name="checkoutlabel">checkout</string>
+    <string name="orders">my orders</string>
+    <string name="emptycategory">no products related with this category yet</string>
+
+    <string name="total1">products -</string>
+    <string name="total2">L.E</string>
+
+    <string name="delete1">delete</string>
+    <string name="delete2">are you sure to delete this product ?</string>
+
+    <string name="signinfirst">please sign in firstly</string>
+    <string name="fname">enter first name</string>
+    <string name="lname">enter last name</string>
+    <string name="company">enter company name</string>
+    <string name="phone">enter mobile number</string>
+    <string name="address1">enter first address</string>
+    <string name="address2">enter second address</string>
+    <string name="city">enter city</string>
+
+
+    <string name="logout">logout</string>
+    <string name="save">save changes</string>
+
+    <string name="savechange">changes saved</string>
+    <string name="loginerror">check username or email and password then try again</string>
+
+    <string name="register" translatable="false">register</string>
+    <string name="register_content" translatable="false">please wait</string>
+    <string name="emailexist">email is already exist</string>
+    <string name="usernameexist">username is already exist</string>
+
+    <string name="more">more</string>
+    <string name="setting">account setting</string>
+    <string name="call">call us</string>
+    <string name="about">about plmsh</string>
+    <string name="signin">sign in</string>
+
+    <array name="progress">
+        <item>processing</item>
+        <item>hhhh</item>
+        <item>jjjj</item>
+    </array>
+
+    <string-array name="quantity">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
